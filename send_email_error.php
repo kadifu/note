@@ -1,6 +1,6 @@
 <? php
 /**
-* 解决 php5.6后 邮件发送失败的问题
+* 解决 php5.6后 邮件发送失败的问题 
 * 函数位于 class.smtp.php
 */
 public function Connect($host, $port = 0, $tval = 30) {
